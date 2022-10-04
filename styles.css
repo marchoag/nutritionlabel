@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    line-height: 0px;
+}
+
+html {
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+}
+
+.label {
+    width: 290px;
+    height: 790px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 800;
+    letter-spacing: 1.1px;
+
+}
+
+.spacer {
+    border-bottom: 30px solid white;
+}
+
+.calories {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.divider-fine {
+    border-bottom: 1px black solid;
+}
+
+.divider-fine-indent {
+    border-bottom: 1px black solid;
+    margin-left: 15px;
+}
+
+
+.divider-medium {
+    border-bottom: 5px black solid;
+}
+
+.servingsize {
+    font-size: 1.1em;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.alignright {
+    float: right;
+}
+
+.divider-heavy {
+    border-bottom: 10px black solid;
+}
+
+.indent {
+    text-indent: 15px;
+}
+
+.small {
+    margin-top: 5px;
+    line-height: 1.5em;
+    font-size: 0.67em;
+}
